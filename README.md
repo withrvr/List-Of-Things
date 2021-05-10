@@ -1,2 +1,9 @@
-# List-Of-Things
-Gives List of Things - for example ( Fruits, Vegetables, Sports, Movies, . . . . etc )
+# List Of Things
+
+<pre>
+Gives List of Things
+For Example
+Fruits, Vegetables, Sports, Movies, ... ,  etc
+</pre>
+
+### Currently Under Development
